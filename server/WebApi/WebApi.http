@@ -1,0 +1,4 @@
+@ffmpeg_conversion_helper = http://localhost:5125
+
+GET {{ffmpeg_conversion_helper}}/weatherforecast/
+Accept: application/json
